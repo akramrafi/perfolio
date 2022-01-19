@@ -122,6 +122,8 @@ side text css ends
 ----------------*/
 .menu-bg{
     height: 60px;
+    position:absolute;
+    z-index:3;
     
 }
 .menu{
