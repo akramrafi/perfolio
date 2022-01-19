@@ -1,2 +1,2 @@
 # perfolio
-https://github.com/akramrafi/perfolio.git
+ https://akramrafi.github.io/perfolio/
